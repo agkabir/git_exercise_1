@@ -1,3 +1,5 @@
 apple
-bana
+banana
 orange
+avocado
+kiwigit
