@@ -1,5 +1,5 @@
 apple
-banan
+banana
 orange
 avocado
-kiwigit 
+kiwigit
